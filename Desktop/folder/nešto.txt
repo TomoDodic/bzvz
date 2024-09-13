@@ -1,1 +1,5 @@
-nešto:
+nešto:ggit remote add origin https://github.com/TomoDodic/bzvz.git
+git branch -M main
+git push -u origin mainit remote add origin https://github.com/TomoDodic/bzvz.git
+git branch -M main
+git push -u origin main
